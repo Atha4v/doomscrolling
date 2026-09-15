@@ -18,3 +18,17 @@ BreakTheScroll/
 └── Resources/
     ├── Assets.xcassets
     └── Preview Content/
+
+
+doomscrolling/
+├── Models/
+│   ├── UserProfile.swift
+│   ├── UserTaskLog.swift
+│   └── TaskItem.swift
+├── StateManager/
+│   └── AppStateManager.swift
+├── Views/
+│   ├── ContentView.swift
+│   ├── InterceptSheetView.swift
+│   └── MissionCardView.swift
+└── README.md
